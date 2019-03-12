@@ -1,0 +1,8 @@
+1. Display a menu for physics calculations. Options are: velocity, acceleration, Newton's Second Law, Weight, and Momentum. E/e to exit program and c/C/clear to clear screen.
+2. If user picks velocity, output asking for ds, dt, and their units. Calculate the velocity and display all data including results.
+3. If user picks acceleration, output asking for dv and dt, and their units. Calculate the acceleration and display all data including results.
+4. If user picks equations of motion, display another menu of four equations to pick from whether they want to solve for final velocity, final position, final velocity squared, or average velocity. After this decision, ask for appropriate inputs then display all data including results.
+5. If user picks Newton's 2nd Law, ask for mass, acceleration, and their units. Calculate the force and display all data including results.
+6. If user picks weight, ask for mass, gravity, and their units. Calculate the weight and display all data including results.
+7. If user picks momentum, ask for mass, velocity, and their units. Calculate the momentum and display all data including results.
+8. After displaying any results, show menu again until user enters e/E to exit.
